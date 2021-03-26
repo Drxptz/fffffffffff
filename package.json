@@ -1,0 +1,31 @@
+{
+  "name": "skusfs",
+  "version": "1.0.0",
+  "description": "a simple discord bot",
+  "main": "(index.js)",
+  "dependencies": {
+    "ascii-table": "0.0.9",
+    "discord.js": "^12.5.1",
+    "dotenv": "^8.2.0",
+    "mongodb": "^3.6.5",
+    "mongoose": "^5.12.2",
+    "readdir-plus": "^1.1.1",
+    "translate-google": "^1.4.3",
+    "youtube-search": "^1.1.6",
+    "ytdl-core": "^4.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Drxptz/test.git"
+  },
+  "author": "🌙FlyMeToTheMoon🌙#7266",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Drxptz/test/issues"
+  },
+  "homepage": "https://github.com/Drxptz/test#readme"
+}
